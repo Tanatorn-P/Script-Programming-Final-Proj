@@ -75,21 +75,9 @@
 
 | บทบาท (Role) | สมาชิกที่รับผิดชอบ | ภารกิจหลักใน Sprint 1 |
 | --- | --- | --- |
-| **Planner / Team Leader** | ฟลุ๊ค | • วางแผนโครงสร้างระบบและจัดทำเอกสาร `PLAN.md`<br>
-
-<br>• กำหนด Definition of Done และขอบเขตโปรเจกต์<br>
-
-<br>• ควบคุมโครงสร้างสถาปัตยกรรมภาพรวม |
-| **Coder** | น่อน | • เขียนโค้ดประมวลผลภาพ (OpenCV, EasyOCR)<br>
-
-<br>• พัฒนาฟังก์ชัน Data Normalization และ Business Logic<br>
-
-<br>• จัดโครงสร้างโค้ดตามมาตรฐาน PEP8 และใส่ Docstring |
-| **Debugger / QA** | ฟลุ๊ค | • ออกแบบตารางทดสอบ Edge Cases (ภาพต่างความละเอียด, ข้อมูลไม่ครบ)<br>
-
-<br>• สอบทานโครงสร้าง Exception Handling ป้องกันโปรแกรมค้าง<br>
-
-<br>• จัดทำรายงานผลการทดสอบและ Retrospective (Wow! & Whoops!) |
+| **Planner / Team Leader** | ฟลุ๊ค | • วางแผนโครงสร้างระบบและจัดทำเอกสาร `PLAN.md`<br>• กำหนด Definition of Done และขอบเขตโปรเจกต์<br>• ควบคุมโครงสร้างสถาปัตยกรรมภาพรวม |
+| **Coder** | น่อน | • เขียนโค้ดประมวลผลภาพ (OpenCV, EasyOCR)<br>• พัฒนาฟังก์ชัน Data Normalization และ Business Logic<br>• จัดโครงสร้างโค้ดตามมาตรฐาน PEP8 และใส่ Docstring |
+| **Debugger / QA** | ฟลุ๊ค | • ออกแบบตารางทดสอบ Edge Cases (ภาพต่างความละเอียด, ข้อมูลไม่ครบ)<br>• สอบทานโครงสร้าง Exception Handling ป้องกันโปรแกรมค้าง<br>• จัดทำรายงานผลการทดสอบและ Retrospective (Wow! & Whoops!) |
 
 ---
 
